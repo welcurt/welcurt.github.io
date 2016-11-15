@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: purple;
+    text-align: center;
+}
+p {
+    font-family:Tahoma;
+    font-size: 20px;
+}
+
+h2 {
+    color:blue
+}
+body {
+    border-color:black
+}
+h3 {
+    color:red
+        
+}
+
+    Bold: <b>Clowns 4 Dayz</b>
+Italic: <i>No more for clowns</i> 
+Underlined: <u>Keep living</u> 
+Teletype: <tt>Clowns</tt> 
+
+h4 {
+     
+  font-size: 800px;  
+color:aquamarine
+    border-color:orange
+
+}
+
