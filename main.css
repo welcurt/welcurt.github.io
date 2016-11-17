@@ -1,3 +1,7 @@
+img {
+    width: 100%;
+    height: auto;
+}
 body {
     background-color: lightblue;
 }
@@ -11,13 +15,13 @@ p {
 }
 
 h2 {
-    color:blue
+    color: blue;
 }
 body {
-    border-color:black
+    border-color: black;
 }
 h3 {
-    color:red
+    color: red;
         
 }
 
@@ -29,9 +33,8 @@ Teletype: <tt>Clowns</tt>
 h4 {
      
   font-size: 800px;  
-color:aquamarine
-    border-color:orange
-
+color:aquamarine;
+    border-color:orange;
 }
 
 
